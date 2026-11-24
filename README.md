@@ -62,7 +62,7 @@ bishal_ray_elite_portfolio/
 - Education: B.Tech, Computer Science Engineering
 - University: Manav Rachna University
 - Skills: C, Python (Beginner), Java (Beginner), HTML, CSS, Git, GitHub, VS Code, OOP, DSA (Basic), Problem-solving
-- Projects: Personal Portfolio Website; C Programming Mini Projects
+- Projects: Personal Portfolio Website; C Programming Mini Projects; Python Coding Notebook; Fake News Detection
 - Certification: Introduction to Python — Datacampus
 - Interest: Table Tennis
 - Contact: bishalray623@gmail.com | +91 91531 35922

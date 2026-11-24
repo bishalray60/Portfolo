@@ -340,7 +340,7 @@ button { font: inherit; }
 .expertise-section, .journey-section { background: var(--bg-soft); border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); }
 .section-heading-row { display: flex; justify-content: space-between; align-items: end; gap: 40px; margin: 56px 0 42px; }
 .heading-note { max-width: 360px; margin: 0 0 4px; color: var(--muted); font-size: 15px; line-height: 1.75; }
-.skills-matrix { display: grid; grid-template-columns: repeat(4,1fr); gap: 12px; }
+.skills-matrix { display: grid; grid-template-columns: repeat(3,1fr); gap: 12px; }
 .skill-panel { min-height: 255px; padding: 21px 19px; background: var(--panel); border: 1px solid var(--line); transition: transform .25s, border-color .25s; }
 .skill-panel:hover { transform: translateY(-5px); border-color: var(--line-strong); }
 .skill-panel-head { display: flex; justify-content: space-between; align-items: center; }
