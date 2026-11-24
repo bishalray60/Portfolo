@@ -32,12 +32,23 @@ A polished, responsive portfolio built with **Python (Flask), HTML5, CSS3 and Ja
 
 6. Visit `http://127.0.0.1:5000`.
 
+## Deploy to Render
+
+This repository includes a Render Blueprint in `render.yaml`.
+
+1. Push the repository to GitHub.
+2. In Render, choose **New → Blueprint** and connect `bishalray60/Portfolo`.
+3. Review the `bishal-ray-portfolio` web service and deploy it.
+
+Render installs dependencies from `requirements.txt` and starts the Flask app with Gunicorn.
+
 ## Project structure
 
 ```text
 bishal_ray_elite_portfolio/
 ├── app.py
 ├── requirements.txt
+├── render.yaml
 ├── README.md
 ├── templates/
 │   └── index.html
